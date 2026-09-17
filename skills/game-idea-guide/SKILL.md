@@ -1,9 +1,9 @@
 ---
-name: supreme-game-idea-guide
+name: game-idea-guide
 description: Generate, expand, or evaluate game ideas using the eight kinds of fun and connected inner and outer game loops. Use for game brainstorming, concepts, pitches, and gameplay-loop design, with concrete explanations of every kind of fun and why players continue playing.
 ---
 
-# Supreme Game Idea Guide
+# Game Idea Guide
 
 Create coherent, playable game ideas that satisfy as many of the eight kinds of fun as possible: sensation, fellowship, challenge, fantasy, narrative, discovery, expression, and submission. For every idea, explicitly explain its fit with all eight and describe both an inner game loop and an outer game loop.
 
