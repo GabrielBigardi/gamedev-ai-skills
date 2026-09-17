@@ -15,7 +15,7 @@ This repository contains custom, modular AI skills formatted for immediate use a
 | Skill Name | File | Primary Focus | Best Used For |
 | :--- | :--- | :--- | :--- |
 | **Game Idea Guide** | [`skills/game-idea-guide/SKILL.md`](./skills/game-idea-guide/SKILL.md) | Ideation & Mechanics | 8 Kinds of Fun, Inner/Outer Loop Architecture, Pitching |
-| **Game Idea Validator** | [`skills/game-idea-validator/SKILL.md`](./skills/game-idea-validator/SKILL.md) | Ideation & Mechanics | 8 Kinds of Fun, Inner/Outer Loop Architecture, Pitching |
+| **Game Idea Validator** | [`skills/game-idea-validator/SKILL.md`](./skills/game-idea-validator/SKILL.md) | Concept Validation & Feasibility | Player Fantasy, Goal Clarity, Mechanic Alignment, Pitch Review |
 | *[Skill Name]* | `skills/[file-name].md` | *[Focus Area]* | *[Brief trigger/use-case]* |
 
 ---
